@@ -62,8 +62,6 @@ private:
     // result stores the current value of the equation
     double result = 0;
 
-    // bool op_checked = false;
-
     // pre_op stores the value of the current last operator
     //    selected (from +, -, *, /), or empty if there is none
     QString pre_op = "";
